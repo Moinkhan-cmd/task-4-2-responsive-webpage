@@ -21,6 +21,6 @@ This is a simple responsive webpage created as part of **Web Development Interns
 - Optimized padding and spacing
 
 ## 📸 Screenshots
-(images/screenshot.png)
+![Website Screenshot](images/screenshot.png)
 
 
